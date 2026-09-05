@@ -1,6 +1,6 @@
-# 🏥 Análise da Ocupação Hospitalar por COVID-19 no Brasil
+# Análise da Ocupação Hospitalar por COVID-19 no Brasil
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto tem como objetivo realizar uma análise exploratória dos dados de ocupação hospitalar relacionados à COVID-19 no Brasil.
 
@@ -10,7 +10,7 @@ O projeto busca aplicar técnicas de preparação, limpeza, exploração e visua
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 O principal objetivo deste projeto é explorar os dados de ocupação hospitalar e identificar padrões relevantes relacionados à utilização de leitos durante a pandemia de COVID-19.
 
@@ -26,7 +26,7 @@ Entre os objetivos específicos estão:
 
 ---
 
-## 🗂️ Fonte dos Dados — DataSUS
+##  Fonte dos Dados — DataSUS
 
 O Ministério da Saúde, por meio da **Secretaria de Atenção Especializada em Saúde (SAES)**, implementou, devido à pandemia de COVID-19, o registro das internações por meio do **Sistema e-SUS Notifica — Módulo Internações SUS**.
 
