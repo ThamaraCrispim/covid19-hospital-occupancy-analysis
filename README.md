@@ -117,16 +117,19 @@ Serão utilizados diferentes tipos de gráficos, de acordo com a característica
 
 ## 🛠️ Tecnologias
 
-As tecnologias utilizadas serão adicionadas conforme o desenvolvimento do projeto.
+Este projeto será desenvolvido utilizando **R**, seguindo uma abordagem
+voltada à análise estatística e exploração de dados.
 
-Inicialmente:
+Principais ferramentas:
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
+- R
+- RStudio
+- data.table
+- dplyr
+- tidyr
+- ggplot2
+- lubridate
+- plotly
 ---
 
 ## 📁 Estrutura do Projeto
